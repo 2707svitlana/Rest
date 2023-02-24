@@ -30,7 +30,7 @@ public class TestHW {
                 errorUrl.add(String.valueOf(l.id));
                 continue;
             }
-            System.out.println("name:"+" " + l.name + "\n" + "status:"+" " + l.status+"\n"+"species"+" "+l.species);
+            System.out.println("name:"+" " + l.name + "\n" + "status:"+" " + l.status+"\n"+"species:"+" "+l.species);
         }
 
 
